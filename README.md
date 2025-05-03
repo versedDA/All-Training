@@ -22,3 +22,9 @@ Succefully completed the 1st course in the Google Cybersecurity Professional Cer
 Starting the TryHackMe - What is Networking in the learning roadmap (Pre Security)
 
 [![image-2025-05-03-095811875.png](https://i.postimg.cc/85HQ9xkQ/image-2025-05-03-095811875.png)](https://postimg.cc/bDsB2C23)
+
+5/3/2025
+
+Completed the TryHackMe - What is Networking in the learning roadmap (Pre Security)
+
+[![image-2025-05-03-124548080.png](https://i.postimg.cc/3JLX1sNv/image-2025-05-03-124548080.png)](https://postimg.cc/1fqV5Ypm)
