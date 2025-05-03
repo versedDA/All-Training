@@ -1,5 +1,5 @@
 # All-Training
-all training (tryhackme has its own repository) im doing to learn the field of cyber security
+Timeline of training of my Cybersecurity journey 
 
 ---------------------
 
