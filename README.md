@@ -15,7 +15,7 @@ working on continuing the Google Cybersecurity Professional Certificate
 
 Succefully completed the 1st course in the Google Cybersecurity Professional Certificate
 
-[![image-2025-05-03-120933988.png](https://i.postimg.cc/0jvkPvmV/image-2025-05-03-120933988.png)](https://postimg.cc/1nWhrLvF)
+[![image-2025-05-03-121245608.png](https://i.postimg.cc/k4Rpgt9c/image-2025-05-03-121245608.png)](https://postimg.cc/bD8T6rZD)
 
 5/3/2025
 
