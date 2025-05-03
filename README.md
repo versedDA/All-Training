@@ -3,6 +3,10 @@ all training (tryhackme has its own repository) im doing to learn the field of c
 
 ---------------------
 
+5/2/2025
+
+Started the Google Cybersecurity Professional Certificate
+
 5/3/2025
 
 working on continuing the Google Cybersecurity Professional Certificate
