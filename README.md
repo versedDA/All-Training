@@ -15,6 +15,8 @@ working on continuing the Google Cybersecurity Professional Certificate
 
 Succefully completed the 1st course in the Google Cybersecurity Professional Certificate
 
+[![image-2025-05-03-120933988.png](https://i.postimg.cc/0jvkPvmV/image-2025-05-03-120933988.png)](https://postimg.cc/1nWhrLvF)
+
 5/3/2025
 
 Starting the TryHackMe - What is Networking in the learning roadmap (Pre Security)
