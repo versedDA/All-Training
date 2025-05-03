@@ -7,4 +7,6 @@ all training (tryhackme has its own repository) im doing to learn the field of c
 
 working on continuing the Google Cybersecurity Professional Certificate
 
-[![image-2025-05-03-082044589.png](https://i.postimg.cc/Z5GWmgZW/image-2025-05-03-082044589.png)](https://postimg.cc/pmBWYsmv)
+5/3/2025
+
+Succefully completed the 1st course in the Google Cybersecurity Professional Certificate
