@@ -28,3 +28,9 @@ Starting the TryHackMe - What is Networking in the learning roadmap (Pre Securit
 Completed the TryHackMe - What is Networking in the learning roadmap (Pre Security)
 
 [![image-2025-05-03-124548080.png](https://i.postimg.cc/3JLX1sNv/image-2025-05-03-124548080.png)](https://postimg.cc/1fqV5Ypm)
+
+5/3/2025
+
+Starting the TryHackMe - What is LAN in the learning roadmap (Pre Security)
+
+[![image-2025-05-03-124942970.png](https://i.postimg.cc/xd75jWMm/image-2025-05-03-124942970.png)](https://postimg.cc/zLCK02dD)
