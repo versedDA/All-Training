@@ -40,3 +40,9 @@ Starting the TryHackMe - Intro to LAN in the learning roadmap (Pre Security)
 Finished the TryHackMe - Into to LAN in the learning roadmap (Pre Security)
 
 [![image-2025-05-03-144056613.png](https://i.postimg.cc/fRs2Mww0/image-2025-05-03-144056613.png)](https://postimg.cc/8jyBHgf1)
+
+5/4/2025
+
+Continuing on to course 2 in the Google Cybersecurity Professional Certificate
+
+
