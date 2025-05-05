@@ -45,4 +45,14 @@ Finished the TryHackMe - Into to LAN in the learning roadmap (Pre Security)
 
 Continuing on to course 2 in the Google Cybersecurity Professional Certificate
 
+5/5/2025
+
+listened to networking / security lectures while driving
+
+5/5/2025
+
+Finished TryHackMe OSI model
+
+[![image-2025-05-05-165937804.png](https://i.postimg.cc/qqqB1JBr/image-2025-05-05-165937804.png)](https://postimg.cc/WqRP3PJY)
+
 
