@@ -61,4 +61,10 @@ Finished TryHackMe course Packets & Frames
 
 [![image-2025-05-05-174222424.png](https://i.postimg.cc/SsxnJX1L/image-2025-05-05-174222424.png)](https://postimg.cc/5HD4rtVj)
 
+5/5/2025
+
+Finished TryHackMe Extending your Network
+
+[![image-2025-05-05-182349417.png](https://i.postimg.cc/J0ZvSC9s/image-2025-05-05-182349417.png)](https://postimg.cc/BPZm1kZ3)
+
 
