@@ -55,4 +55,10 @@ Finished TryHackMe OSI model
 
 [![image-2025-05-05-165937804.png](https://i.postimg.cc/qqqB1JBr/image-2025-05-05-165937804.png)](https://postimg.cc/WqRP3PJY)
 
+5/5/2025
+
+Finished TryHackMe course Packets & Frames
+
+[![image-2025-05-05-174222424.png](https://i.postimg.cc/SsxnJX1L/image-2025-05-05-174222424.png)](https://postimg.cc/5HD4rtVj)
+
 
