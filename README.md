@@ -77,4 +77,8 @@ Completed TryHackMe DNS in detail
 
 [![image-2025-05-06-181529896.png](https://i.postimg.cc/WbD5qcdH/image-2025-05-06-181529896.png)](https://postimg.cc/JGLNSgcN)
 
+5/6/2025
+
+Continuing with the Google Cybersecurity Professional Certificate course 2 module 2
+
 
