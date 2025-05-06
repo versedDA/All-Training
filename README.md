@@ -67,4 +67,14 @@ Finished TryHackMe Extending your Network
 
 [![image-2025-05-05-182349417.png](https://i.postimg.cc/J0ZvSC9s/image-2025-05-05-182349417.png)](https://postimg.cc/BPZm1kZ3)
 
+5/6/2025
+
+listened to 8 hours of lectures on TCP/IP, CIA Triad, OSI model
+
+5/6/2025
+
+Completed TryHackMe DNS in detail 
+
+[![image-2025-05-06-181529896.png](https://i.postimg.cc/WbD5qcdH/image-2025-05-06-181529896.png)](https://postimg.cc/JGLNSgcN)
+
 
