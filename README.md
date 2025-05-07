@@ -81,4 +81,10 @@ Completed TryHackMe DNS in detail
 
 Continuing with the Google Cybersecurity Professional Certificate course 2 module 2
 
+5/7/2025
+
+Finished the Google Cybersecurity Professional Certificate course 2
+
+[![image-2025-05-07-173918043.png](https://i.postimg.cc/gkhmMVkq/image-2025-05-07-173918043.png)](https://postimg.cc/6yBkqGZy)
+
 
