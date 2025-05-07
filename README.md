@@ -87,4 +87,8 @@ Finished the Google Cybersecurity Professional Certificate course 2
 
 [![image-2025-05-07-173918043.png](https://i.postimg.cc/gkhmMVkq/image-2025-05-07-173918043.png)](https://postimg.cc/6yBkqGZy)
 
+5/7/2025
+
+Continuing to course 3 of the Cybersecurity Professional Certificate
+
 
