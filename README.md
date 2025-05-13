@@ -89,6 +89,10 @@ Finished the Google Cybersecurity Professional Certificate course 2
 
 5/7/2025
 
-Continuing to course 3 of the Cybersecurity Professional Certificate
+Continuing to course 3 of the Google Cybersecurity Professional Certificate
+
+5/12/2025
+
+Continuing with the course 3 of Google Cybersecurity Professional Certificate
 
 
