@@ -95,4 +95,16 @@ Continuing to course 3 of the Google Cybersecurity Professional Certificate
 
 Continuing with the course 3 of Google Cybersecurity Professional Certificate
 
+5/13/2025
+
+Starting course 4 of the Google Cybersecurity Professional Certificate & worked on some rooms in TryHackMe
+
+5/14/2025
+
+Completed course 4 of the Google Cybersecurity Professional Certificate
+
+5/14/2025
+
+Starting course 5 of the Google Cybersecurity Professional Certificate
+
 
